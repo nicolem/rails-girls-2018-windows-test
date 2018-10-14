@@ -16,6 +16,8 @@ end
 gem 'carrierwave'
 # Use imagemagik to resize pics
 gem 'mini_magick', '4.8.0'
+# Use devise for authentication
+gem 'devise'
 # needed for uploader
 gem 'net-ssh'
 # Use Puma as the app server
