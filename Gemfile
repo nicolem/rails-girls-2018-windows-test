@@ -14,6 +14,8 @@ group :production do
 end
 # Use carrierwave for pictures
 gem 'carrierwave'
+# Use imagemagik to resize pics
+gem 'mini_magick', '4.8.0'
 # needed for uploader
 gem 'net-ssh'
 # Use Puma as the app server
