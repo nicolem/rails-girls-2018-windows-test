@@ -18,6 +18,8 @@ gem 'carrierwave'
 gem 'mini_magick', '4.8.0'
 # Use devise for authentication
 gem 'devise'
+# Use gravitar for avatars
+gem 'gravtastic'
 # needed for uploader
 gem 'net-ssh'
 # Use Puma as the app server
